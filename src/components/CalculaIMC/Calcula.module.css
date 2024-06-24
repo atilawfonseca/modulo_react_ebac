@@ -1,0 +1,37 @@
+.cabecalho {
+    padding: 1em;
+    margin-top: 1.5em;
+    text-align: center;
+    background-color: rgb(102, 102, 0);
+    color: white;
+}
+.formulario {
+    margin-top: 2em;
+    display: flex;
+    width: 100%;
+    gap: 1em;
+    margin-bottom: 2em;
+}
+.formulario input {
+    width: 40%;
+    padding: .5em;
+    font-size: 1em;
+}
+.formulario button {
+    width: 40%;
+    background-color: green ;
+    border: none;
+    border-radius: 16px;
+    color: white;
+}
+.formulario button:hover {
+    background-color: rgb(0, 92, 0);
+    cursor: pointer;
+}
+.formulario button:active {
+    background-color: rgb(0, 148, 0) ;
+}
+
+.resultado h2 {
+    margin-bottom: 1.5em
+}

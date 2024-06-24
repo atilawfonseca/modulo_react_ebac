@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    width: 95%;
+    margin: 0px auto;
+}
